@@ -1,4 +1,4 @@
-<h2 align="left">Olá 👋! Meu nome é Caio Muller, Sou estudante do 2º ano do ensino médio, programador Full Stack. 💻 Buscando experiência para crescer e evoluir na área de tecnologia.</h2>
+<h2 align="left">Olá 👋! Meu nome é Caio Muller, Sou estudante do 3º ano do ensino médio, programador Full Stack. 💻 Buscando experiência para crescer e evoluir na área de tecnologia.</h2>
 
 ###
 
